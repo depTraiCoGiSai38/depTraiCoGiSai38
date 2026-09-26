@@ -13,7 +13,7 @@ I study how LLM applications and autonomous agents fail under attack, and how to
 
 ### Featured work
 
-**[GenAI Security Lab Pro](https://github.com/depTraiCoGiSai38/genai-security-lab-pro)** · Python, Streamlit<br>
+**[GenAI Security Lab Pro](https://github.com/buiPhongGiang/genai-security-lab-pro)** · Python, Streamlit<br>
 A controlled, reproducible lab that measures attack success rate, false-positive rate and latency overhead across four GenAI/RAG security configurations, from an unprotected baseline to layered Secure-SDLC controls. 198 prompts × 4 configurations, six attack categories including Vietnamese social-engineering prompts, synthetic data only.
 
 **[NouriMe](https://github.com/onlyvu/NouriMe)** · TypeScript, Expo / React Native, Express · Team lead<br>
